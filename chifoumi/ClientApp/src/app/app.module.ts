@@ -6,7 +6,6 @@ import { RouterModule } from '@angular/router';
 
 import { AppComponent } from './app.component';
 import { NavMenuComponent } from './nav-menu/nav-menu.component';
-import { HomeComponent } from './home/home.component';
 
 import { ScoreboardComponent } from './scoreboard/scoreboard.component';
 import { ChifoumiComponent } from './chifoumi/chifoumi.component';
@@ -15,7 +14,6 @@ import { ChifoumiComponent } from './chifoumi/chifoumi.component';
   declarations: [
     AppComponent,
     NavMenuComponent,
-    HomeComponent,
     ChifoumiComponent,
     ScoreboardComponent
   ],
